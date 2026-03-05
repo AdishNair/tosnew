@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+.env
+tos/data/logs.json
+tos/data/bookings.json
+tos/**/__pycache__/
+.fetch-client/
